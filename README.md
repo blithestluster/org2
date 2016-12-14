@@ -25,9 +25,13 @@ Before describing the specific mechanics of the framework, we need to introduce 
 
 **Segments**: Different parts of the organization that are living different Stages. 
 
+**Seeders**: People that are introducing the Org² framework and its artifacts in segments of the organization.
+
+**Sponsors**: Legacy power holders that are holding the space and want can protect a segment from external influence, at least temporarily. 
+
 Power and Authority
 -------------------
-Organizational power resides only in the artifacts applied to the segments of the organization. Except were noted differently, legacy power structures, like the management hierarchy, do not apply.
+Organizational power resides in the artifact sets applied to the segments of the organization. Except were noted differently, legacy power structures, like the management hierarchy, do not apply.
 
 Artifacts (apply in a given segment):
 -------------------------------------
