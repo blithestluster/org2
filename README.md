@@ -1,6 +1,6 @@
 Org² (Organic Organization)
 ===========================
-Org² is a **progressive evolutionary organizational framework** that aims to help organizations handle new levels of complexity, by developing the three pillars of teal organizations (evolutionary purpose, self-management and wholeness) identified by *Frederic Laloux* in his book *Reinventing Organizations*. 
+Org² is a **progressive evolutionary organizational framework** that aims to help organizations handle new levels of complexity, by developing the three pillars of Teal Organizations (evolutionary purpose, self-management and wholeness). 
 
 This work is collective effort of anonymous individuals.
 
